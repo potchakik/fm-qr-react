@@ -5,11 +5,7 @@ function App() {
     <div className="App">
       <div className="card">
         <div>
-          <img
-            className="qr-image"
-            src="./assets/image-qr-code.png"
-            alt="qr-code"
-          />
+          <img className="qr-image" src="./image-qr-code.png" alt="qr-code" />
         </div>
         <div className="text-container">
           <p className="qr-text">
