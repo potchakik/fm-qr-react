@@ -7,7 +7,7 @@ function App() {
         <div>
           <img
             className="qr-image"
-            src="/public/assets/image-qr-code.png"
+            src="./assets/image-qr-code.png"
             alt="qr-code"
           />
         </div>
